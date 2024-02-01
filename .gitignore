@@ -1,3 +1,5 @@
 node_modules
 includes/.env
 vendor
+.htaccess
+public/.htaccess
